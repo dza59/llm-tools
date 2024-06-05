@@ -5,4 +5,5 @@ Discover multiple tools followed by a tutorial on YouTube at [Developers Digest]
 ## :sparkles: Folders for each tool
 
 :heavy_check_mark: **document-loaders**: Load multiple documents, use embeddings to create vectors, store them, and return related information.
+<br>
 :heavy_check_mark: **text-to-speech**: Use the OpenAI TTS model to convert text to audio and save it as MP3 files.
